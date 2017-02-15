@@ -6,3 +6,4 @@ Git tracks changes.
 Git has a mutable index called stage.
 Git tracks changes.
 change1
+Creating a new branch is quick AND simple.
